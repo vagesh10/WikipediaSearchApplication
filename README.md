@@ -1,2 +1,2 @@
 # WikipediaSearchApplication
-https://vagesh10.github.io/WikipediaSearchApplication/
+https://wikipediaapploo.ccbp.tech/
